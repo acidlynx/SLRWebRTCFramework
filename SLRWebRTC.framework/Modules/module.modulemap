@@ -1,0 +1,6 @@
+framework module SLRWebRTC {
+  umbrella header "SLRWebRTC.h"
+
+  export *
+  module * { export * }
+}
